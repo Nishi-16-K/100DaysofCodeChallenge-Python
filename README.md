@@ -10,7 +10,9 @@ This repository contains my #100DaysCodeChallenge Python course (Udemy Course) c
 
       Bandname generator generates the name of music band using the input given by user.
 
- 
+
+
+
 
 [DAY 2](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/tree/main/Day%202)
  - Exercise 1: [Finding Sum of 2-digit Number](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/blob/0b2234b380560b6aa159af24b6b129b64a41413a/Day2:%20Exercise1.py)
@@ -30,13 +32,17 @@ This repository contains my #100DaysCodeChallenge Python course (Udemy Course) c
  
  
  
+ 
  [DAY 3](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/tree/main/Day%203)
 - Exercise 1: [Check number is odd or even](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/blob/b94c1ede55131f4b43b17b90a793022aa0dba13e/Day%203/Ex1:%20Check%20_odd%20_or%20_even.py)
-      Program that works out whether if a given number is an odd or even number.
+      
+     Program that works out whether if a given number is an odd or even number.
 - Exercise 2: [BMI Calculator 2.0]()
-      Program that interprets the Body Mass Index (BMI) based on a user's weight and height and tells their body state.
+      
+     Program that interprets the Body Mass Index (BMI) based on a user's weight and height and tells their body state.
 - Exercise 3: [Check year is leap year or not](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/blob/df94473f66106b677c43fe95c4d6ae8abc2eb9e9/Day%203/Ex3:%20Check_leap_year.py)
-      Program that works out whether if a given year is a leap year. This is how you work out whether if a particular year is a leap year. 
+      
+     Program that works out whether if a given year is a leap year. This is how you work out whether if a particular year is a leap year. 
      
       > `on every year that is evenly divisible by 4
       >   **except** every year that is evenly divisible by 100
@@ -57,12 +63,12 @@ This repository contains my #100DaysCodeChallenge Python course (Udemy Course) c
          Extra cheese for any size pizza: + $1
 
 - Exercise 5: [Love Calculator](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/blob/6fb6bc76bc32cae4e35d78f531b8938ed09fe669/Day%203/Ex5:%20Love%20Calculator.py)
-      Program that tests the compatibility between two people. To work out the love score between two people:
-      Take both people's names and check for the number of times the letters in the word TRUE occurs. Then check for the number of times the letters in the word LOVE occurs.
-      Then combine these numbers to make a 2 digit number.
+      
+     Program that tests the compatibility between two people. To work out the love score between two people:
+     Take both people's names and check for the number of times the letters in the word TRUE occurs. Then check for the number of times the letters in the word LOVE occurs.Then      combine these numbers to make a 2 digit number.
 
--PROJECT: [Treasue Island](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/blob/7cea066438670455dd2d0fe95f47e8c91f5c0c05/Day%203/PROJECT:%20Treasure%20Island.py)
-
+- PROJECT: [Treasue Island](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/blob/7cea066438670455dd2d0fe95f47e8c91f5c0c05/Day%203/PROJECT:%20Treasure%20Island.py)
+  
    Program a treasure hunt game to reach the treasure.
 
 
