@@ -4,17 +4,17 @@
 This repository contains my #100DaysCodeChallenge Python course (Udemy Course) code. It contains all my progress of the coding challenge.
 
 
-[DAY 1](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/blob/ad4d24eb197e0c843e604e11eaaea12b10307ccc/Day1%20Project:%20BandNameGenerator.py)
 
- - PROJECT 1: [BandName Generator](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/blob/c98d7364887f794a6044ac54619ad76cbd550777/Day1%20Project:%20BandNameGenerator.py)
+# DAY 1:
+ - PROJECT : [BandName Generator](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/blob/c98d7364887f794a6044ac54619ad76cbd550777/Day1%20Project:%20BandNameGenerator.py)
 
       Bandname generator generates the name of music band using the input given by user.
 
 
 
 
+# DAY 2:
 
-[DAY 2](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/tree/main/Day%202)
  - Exercise 1: [Finding Sum of 2-digit Number](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/blob/0b2234b380560b6aa159af24b6b129b64a41413a/Day2:%20Exercise1.py)
  
      Program to calculate the sum of two-digit-number entered by the user.
@@ -24,7 +24,7 @@ This repository contains my #100DaysCodeChallenge Python course (Udemy Course) c
  - Exercise 3: [Life In Weeks](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/blob/bc0d99815cbe44d0385151362424720df0f9c6e6/Day%202/Ex3:%20Life_in_weeks.py)
  
      Program to tell us how many days, weeks, months we have left if we live until 90 years old.
-- PROJECT 2: [Tip Calculator](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/blob/ad4d24eb197e0c843e604e11eaaea12b10307ccc/Day%202/PROJECT:%20Tip_Calculator.py)
+- PROJECT : [Tip Calculator](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/blob/ad4d24eb197e0c843e604e11eaaea12b10307ccc/Day%202/PROJECT:%20Tip_Calculator.py)
  
      Program to calculte the tip based upon the percentage and number of people
  
@@ -32,8 +32,8 @@ This repository contains my #100DaysCodeChallenge Python course (Udemy Course) c
  
  
  
- 
- [DAY 3](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/tree/main/Day%203)
+ # DAY 3:
+
 - Exercise 1: [Check number is odd or even](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/blob/b94c1ede55131f4b43b17b90a793022aa0dba13e/Day%203/Ex1:%20Check%20_odd%20_or%20_even.py)
       
      Program that works out whether if a given number is an odd or even number.
@@ -48,7 +48,8 @@ This repository contains my #100DaysCodeChallenge Python course (Udemy Course) c
       >   **except** every year that is evenly divisible by 100
       >     **unless** the year is also evenly divisible by 400`
 - Exercise 4: [Automated Pizza Order](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/blob/78900092d6852b691898840b05d0737f18fb5f41/Day%203/Ex4:%20Automated_Pizza_Order.py)
-       Build an automatic pizza order program based on a user's order, work out their final bill.
+       
+     Build an automatic pizza order program based on a user's order, work out their final bill.
 
          Small Pizza: $15
 
@@ -70,6 +71,26 @@ This repository contains my #100DaysCodeChallenge Python course (Udemy Course) c
 - PROJECT: [Treasue Island](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/blob/7cea066438670455dd2d0fe95f47e8c91f5c0c05/Day%203/PROJECT:%20Treasure%20Island.py)
   
    Program a treasure hunt game to reach the treasure.
+   
+   
+   
+   
+   
+   
+# DAY 4:   
+
+- Exercise 1: [Random Head or Tail](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/blob/f8076e5c820db9c7de182685f1a6e0dea844aefd/Day%204/Ex1:%20Random%20Head%20or%20Tail.py)
+   
+   Program to to randomly generating integer and print head or tail according to that.
+- Exercise 2: [Who's Paying?](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/blob/f8076e5c820db9c7de182685f1a6e0dea844aefd/Day%204/Ex2:%20Who's_Paying.py)
+   
+   Program to randomly print the name of person for payment from the list entered by the user.
+- Exercise 3:  [Treasure Map](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/blob/f8076e5c820db9c7de182685f1a6e0dea844aefd/Day%204/Ex3:%20Treasure%20Map.py)
+    
+    Program to mark a spot with an X according to 2 digit map position(column,row) entered by the user.
+- PROJECT: [Rock, Paper, and Scissor Game](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/blob/f8076e5c820db9c7de182685f1a6e0dea844aefd/Day%204/PROJECT:%20Rock,%20Paper,%20and%20Scissor.py)
+
+
 
 
  
