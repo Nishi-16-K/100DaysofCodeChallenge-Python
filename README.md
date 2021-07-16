@@ -92,5 +92,15 @@ This repository contains my #100DaysCodeChallenge Python course (Udemy Course) c
 
 
 
+# DAY 5:
 
+- Exercise 1: [Average Height](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/blob/0ed5fb245081241bc10427e034cf4d002e033729/Day%205/Ex1:%20Average%20Height.py)
+ Program to calculate average height of height entered by the user.
+ - Exercise 2: [Highest Score](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/blob/0ed5fb245081241bc10427e034cf4d002e033729/Day%205/Ex2:%20Highest%20score.py)
+ Program to find the highest score in the list using for loop.
+ - Exercise 3: [Add even](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/blob/0ed5fb245081241bc10427e034cf4d002e033729/Day%205/Ex3:%20Add%20even.py)
+  Program to print sum of even numbers between a range using for loop.
+ - Exercise 4: [FizzBuzz](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/blob/0ed5fb245081241bc10427e034cf4d002e033729/Day%205/Ex4:%20FizzBuzz.py)
+  Program to implemet fizzbuzz game.
+ - PROJECT: [Password Generator](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/blob/0ed5fb245081241bc10427e034cf4d002e033729/Day%205/PROJECT:%20PyPassword%20Generator.py)  
  
