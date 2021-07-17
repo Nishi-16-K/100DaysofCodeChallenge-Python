@@ -13,7 +13,7 @@ def step():
     turn_right()
     move()
     turn_left()
-step()
+
 
 for in in range(0,5):
     step()
