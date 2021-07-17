@@ -13,7 +13,7 @@ def step():
     turn_right()
     move()
     turn_left()
-step()
+
 
 
 while at_goal() == False:
