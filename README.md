@@ -103,4 +103,19 @@ This repository contains my #100DaysCodeChallenge Python course (Udemy Course) c
  - Exercise 4: [FizzBuzz](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/blob/0ed5fb245081241bc10427e034cf4d002e033729/Day%205/Ex4:%20FizzBuzz.py)
   Program to implemet fizzbuzz game.
  - PROJECT: [Password Generator](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/blob/0ed5fb245081241bc10427e034cf4d002e033729/Day%205/PROJECT:%20PyPassword%20Generator.py)  
+
+
+# DAY 6:
+
+[Reeborg's World Hurdle Loop Challenges](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json)
+
+ - Exercise 1: [Hurdle Loop 1 Challenge](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/blob/1314747fb37f8ec9b00ceb33134826d54c210758/Day%206/Ex1:%20Hurdles%20Loop%201%20Challenge.py)
+ - Exercise 2: [Hurdle Loop 2 Challenge](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/blob/fe979bf79d76ea903dc10517e11415b31a00733e/Day%206/Ex2:%20Hurdles%20Loop%202%20Challenge.py)
+ - Exercise 3: [Hurdle Loop 3 Challenge](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/blob/255ff85f6927170258377a790fbec9d8071065ce/Day%206/Ex3:%20Hurdles%20Loop%203%20Challenge.py)
+ - Exercise 4: [Hurdle Loop 4 Challenge](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/blob/f9c8726b6a3e016676b9962809b20897e56361e2/Day%206/Ex4:%20Hurdle%20Loop%204%20Challenge.py)
+ - PROJECT: Maze
+
+# DAY 7:
+
+- PROJECT: [Hangman](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/blob/5da48c949111da0ffd03d848afe7f025c7bfb720/Day%207/PROJECT:%20Hangman.py)  
  
