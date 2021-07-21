@@ -17,16 +17,18 @@ operations= {
 }
 def calc():
   print(logo)
-  num1 = float(input("What's the first number: "))
-  num2 = float(input("What's the second number: "))
+  num1 = float(input("What's the first number: ")) 
   for i in operations:
     print(i)
 
   is_True = False
   while not is_True:
     opt = input("Pick an operation from the line above: ")
+    num2 = float(input("Pick another number: "))
     result = operations[opt](num1,num2)
+
     print(f"{num1} {opt} {num2} = {result}")
+    
     user = input(f"Type 'y' to continue calcualting with {result}, or type 'n' to start new calculation: ")
     if user == "n":
       is_True = True
@@ -37,4 +39,5 @@ def calc():
 calc()   
     
 
+    
     
