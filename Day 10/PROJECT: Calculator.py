@@ -51,3 +51,4 @@ def calc():
     else:
       num1 = result
       
+calc()      
