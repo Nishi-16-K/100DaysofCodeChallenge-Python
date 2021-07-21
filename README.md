@@ -118,4 +118,20 @@ This repository contains my #100DaysCodeChallenge Python course (Udemy Course) c
 # DAY 7:
 
 - PROJECT: [Hangman](https://github.com/Nishi-16-K/100DaysCodeChallenge-Python-/blob/5da48c949111da0ffd03d848afe7f025c7bfb720/Day%207/PROJECT:%20Hangman.py)  
- 
+
+# DAY 8:
+
+- Exercise 1: [Paint Area Calculator](https://github.com/Nishi-16-K/100DaysofCodeChallenge-Python/blob/156a28a011f0ac3d3c524106c9c6e7b06d0a946e/Day%208/Ex1:%20Paint%20Area%20Calculator.py)
+ - Exercise 2: [Prime Num Calc](https://github.com/Nishi-16-K/100DaysofCodeChallenge-Python/blob/156a28a011f0ac3d3c524106c9c6e7b06d0a946e/Day%208/Ex2:%20Prime%20Number%20Calc.py)
+ - PROJECT: [Caesar Cipher](https://github.com/Nishi-16-K/100DaysofCodeChallenge-Python/blob/3fdb4398f4b5eb1396d6bf40c4e1a51b4875becd/Day%208/PROJECT:%20Caesar%20Cipher.py)
+
+# DAY 9:
+
+ - Exercise 1: [Grading Program](https://github.com/Nishi-16-K/100DaysofCodeChallenge-Python/blob/fe31ff21f35ed1275bf2fcaa77a28abf7155431f/Day%209/Ex1:%20Grading%20Program.py)
+ - Exercise 2: [Dictionary in lists](https://github.com/Nishi-16-K/100DaysofCodeChallenge-Python/blob/fe31ff21f35ed1275bf2fcaa77a28abf7155431f/Day%209/Ex2:%20Dictionary%20in%20lists.py)
+ - PROJECT: [Blind Auction](https://github.com/Nishi-16-K/100DaysofCodeChallenge-Python/blob/fe31ff21f35ed1275bf2fcaa77a28abf7155431f/Day%209/PROJECT:%20Blind%20Auction.py)
+
+# DAY 10:
+
+ - Exercise 1: [Days in Months](https://github.com/Nishi-16-K/100DaysofCodeChallenge-Python/blob/fe31ff21f35ed1275bf2fcaa77a28abf7155431f/Day-10/Ex1:%20Days%20in%20months.py)
+ - PROJECT: [Calculator](https://github.com/Nishi-16-K/100DaysofCodeChallenge-Python/blob/fe31ff21f35ed1275bf2fcaa77a28abf7155431f/Day-10/PROJECT:%20Calculator.py)
