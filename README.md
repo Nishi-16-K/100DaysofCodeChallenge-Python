@@ -135,3 +135,11 @@ This repository contains my #100DaysCodeChallenge Python course (Udemy Course) c
 
  - Exercise 1: [Days in Months](https://github.com/Nishi-16-K/100DaysofCodeChallenge-Python/blob/fe31ff21f35ed1275bf2fcaa77a28abf7155431f/Day-10/Ex1:%20Days%20in%20months.py)
  - PROJECT: [Calculator](https://github.com/Nishi-16-K/100DaysofCodeChallenge-Python/blob/fe31ff21f35ed1275bf2fcaa77a28abf7155431f/Day-10/PROJECT:%20Calculator.py)
+
+# DAY 11:
+
+ - Capstone Project: [BLACKJACK GAME](https://github.com/Nishi-16-K/100DaysofCodeChallenge-Python/blob/2de4eeb5f1f33b3b2b4c02f5fc714779b280f8ca/Day-11/Capstone%20project:%20BlackJack.py)
+
+# DAY 12:
+
+- PROJECT: [Guess The Number](https://github.com/Nishi-16-K/100DaysofCodeChallenge-Python/blob/32d1cdf954aa85e96edf69477a7dd22a4d3d2be0/Day-12/Guess%20the%20Num.py) 
